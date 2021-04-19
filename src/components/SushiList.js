@@ -3,10 +3,22 @@ import sushi from '../data/sushi.json'
 import SushiItem from './SushiItem'
 
 function SushiList(props) {
-  const {} = props
+  const { filter } = props
+  
+  const sushiList = new Array();
+  sushi.forEach(s => {
+    const attributeSet = new Set(s.attributes)
+    let valid = true;
+    if (filter){
+      filter.forEach(a => {
+        if (!attributeSet.has(a)) valid = false;
+      })
+    }
+    if (valid) sushiList.push(s);
+  });
 
   return (
-    <div>{sushi.map(s => <SushiItem sushi={s}/> )}</div>
+    <div>{sushiList.map(s => <SushiItem sushi={s}/> )}</div>
   )
 }
 

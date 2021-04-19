@@ -1,5 +1,10 @@
 [
   {
+    "label": "Green Onion",
+    "value": "green-onion",
+    "group": "Ingredient"
+  },
+  {
     "label": "Salmon",
     "value": "salmon",
     "group": "Ingredient"
@@ -7,6 +12,11 @@
   {
     "label": "Tuna",
     "value": "tuna",
+    "group": "Ingredient"
+  },
+  {
+    "label": "Yellowtail",
+    "value": "yellowtail",
     "group": "Ingredient"
   },
   {
