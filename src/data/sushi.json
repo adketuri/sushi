@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tuna Roll",
+    "attributes": [
+      "raw",
+      "tuna"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Salmon Roll",
+    "attributes": [
+      "raw",
+      "salmon"
+    ],
+    "price": 650
+  },
+  {
+    "name": "Negi Hama Roll",
+    "attributes": [
+      "raw",
+      "yellowtail",
+      "green-onion"
+    ],
+    "price": 695
+  }
+]

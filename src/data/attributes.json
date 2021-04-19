@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Salmon",
+    "value": "salmon",
+    "group": "Ingredient"
+  },
+  {
+    "label": "Tuna",
+    "value": "tuna",
+    "group": "Ingredient"
+  },
+  {
+    "label": "Raw",
+    "value": "raw",
+    "group": "Preparation"
+  },
+  {
+    "label": "Baked",
+    "value": "baked",
+    "group": "Preparation"
+  },
+  {
+    "label": "Deep-Fried",
+    "value": "deepfried",
+    "group": "Preparation"
+  }
+]
