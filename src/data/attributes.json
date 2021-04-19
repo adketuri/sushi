@@ -1,23 +1,93 @@
 [
   {
-    "label": "Green Onion",
-    "value": "green-onion",
-    "group": "Ingredient"
+    "label": "Albacore",
+    "value": "albacore",
+    "group": "Seafood"
+  },
+  {
+    "label": "Crab Meat",
+    "value": "crab-meat",
+    "group": "Seafood"
   },
   {
     "label": "Salmon",
     "value": "salmon",
-    "group": "Ingredient"
+    "group": "Seafood"
   },
   {
     "label": "Tuna",
     "value": "tuna",
-    "group": "Ingredient"
+    "group": "Seafood"
+  },
+  {
+    "label": "Spicy Tuna",
+    "value": "spicy-tuna",
+    "group": "Seafood"
+  },
+  {
+    "label": "Shrimp",
+    "value": "shrimp",
+    "group": "Seafood"
+  },
+  {
+    "label": "Shrimp Tempura",
+    "value": "shrimp-tempura",
+    "group": "Seafood"
+  },
+  {
+    "label": "Unagi (Eel)",
+    "value": "unagi",
+    "group": "Seafood"
   },
   {
     "label": "Yellowtail",
     "value": "yellowtail",
-    "group": "Ingredient"
+    "group": "Seafood"
+  },
+  {
+    "label": "Avocado",
+    "value": "avocado",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Cucumber",
+    "value": "cucumber",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Green Onion",
+    "value": "green-onion",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Jalapeno",
+    "value": "jalapeno",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Mixed Vegetables",
+    "value": "mixed-vegetables",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Vegetable Tempura",
+    "value": "vegetable-tempura",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Wakame Salad",
+    "value": "wakame-salad",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Cream Cheese",
+    "value": "cream-cheese",
+    "group": "Other"
+  },
+  {
+    "label": "Tamago (Egg)",
+    "value": "tamago",
+    "group": "Other"
   },
   {
     "label": "Raw",
@@ -30,8 +100,13 @@
     "group": "Preparation"
   },
   {
-    "label": "Deep-Fried",
-    "value": "deepfried",
+    "label": "Deep Fried",
+    "value": "deep-fried",
+    "group": "Preparation"
+  },
+  {
+    "label": "Smoked",
+    "value": "smoked",
     "group": "Preparation"
   }
 ]

@@ -23,5 +23,929 @@
       "green-onion"
     ],
     "price": 695
+  },
+  {
+    "name": "Spicy Tuna Roll",
+    "attributes": [
+      "raw",
+      "spicy-tuna",
+      "cucumber"
+    ],
+    "price": 695
+  },
+  {
+    "name": "California Roll",
+    "attributes": [
+      "crab-meat",
+      "avocado"
+    ],
+    "price": 595
+  },
+  {
+    "name": "Philly Roll",
+    "attributes": [
+      "smoked",
+      "salmon",
+      "cream-cheese",
+      "avocado"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Rock & Roll",
+    "attributes": [
+      "unagi",
+      "avocado",
+      "cucumber"
+    ],
+    "price": 895
+  },
+  {
+    "name": "New York Roll",
+    "attributes": [
+      "avocado",
+      "shrimp"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Poki Roll",
+    "attributes": [
+      "raw",
+      "spicy-tuna",
+      "cucumber",
+      "wakame-salad"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Shrimp Tempura Roll",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "avocado"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Deep Fried Cali",
+    "attributes": [
+      "deep-fried",
+      "crab-meat",
+      "avocado"
+    ],
+    "price": 850
+  },
+  {
+    "name": "Avocado Roll",
+    "attributes": [
+      "avocado"
+    ],
+    "price": 595
+  },
+  {
+    "name": "Cucumber Roll",
+    "attributes": [
+      "cucumber"
+    ],
+    "price": 595
+  },
+  {
+    "name": "Avocado Cucumber Roll",
+    "attributes": [
+      "avocado",
+      "cucumber"
+    ],
+    "price": 595
+  },
+  {
+    "name": "Asparagus Roll",
+    "attributes": [
+      "deep-fried",
+      "asparagus"
+    ],
+    "price": 595
+  },
+  {
+    "name": "CAA Roll",
+    "attributes": [
+      "deep-fried",
+      "asparagus",
+      "cucumber",
+      "avocado"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Futo Maki",
+    "attributes": [
+      "mixed-vegetables",
+      "tamago"
+    ],
+    "price": 795
+  },
+  {
+    "name": "Vegie Tempura Roll",
+    "attributes": [
+      "deep-fried",
+      "vegetable-tempura"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Tarzan roll",
+    "attributes": [
+      "crab-meat",
+      "cucumber",
+      "avocado"
+    ],
+    "price": 1195
+  },
+  {
+    "name": "*R* Half Moon Bay",
+    "attributes": [
+      "shrimp",
+      "cucumber",
+      "avocado",
+      "crab-meat",
+      "spicy-tuna"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "New Mexico",
+    "attributes": [
+      "spicy-tuna",
+      "jalapeno",
+      "cream-cheese"
+    ],
+    "price": 995
+  },
+  {
+    "name": "Dragon",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "unagi",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Sycamore",
+    "attributes": [
+      "shrimp",
+      "spicy-tuna",
+      "cucumber",
+      "albacore",
+      "salmon"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Cherry Scallop",
+    "attributes": [
+      "shrimp-tempura",
+      "crab-meat",
+      "cucumber",
+      "tuna",
+      "salmon",
+      "spicy-scallop"
+    ],
+    "price": 149
+  },
+  {
+    "name": "*R* Volcano",
+    "attributes": [
+      "shrimp-tempura",
+      "crab-meat",
+      "cucumber",
+      "spicy-tuna",
+      "crunch"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Fire Cracker",
+    "attributes": [
+      "spicy-tuna",
+      "cucumber",
+      "spicy-scallop",
+      "crunch"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Giant Crunch",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "crab-meat",
+      "crunch"
+    ],
+    "price": 1995
+  },
+  {
+    "name": "Pittsburg",
+    "attributes": [
+      "deep-fried",
+      "spicy-tuna",
+      "cream-cheese",
+      "crab-meat",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Lion King",
+    "attributes": [
+      "baked",
+      "crab-meat",
+      "avocado",
+      "salmon",
+      "sauce"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Titanic",
+    "attributes": [
+      "deep-fried",
+      "crab-meat",
+      "avocado",
+      "unagi"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Freeway",
+    "attributes": [
+      "deep-fried",
+      "spicy-tuna",
+      "baked",
+      "spicy-scallop"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Bodega Bay",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "crab-meat",
+      "avocado",
+      "crab"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "R Crazy Horse (5 pcs)",
+    "attributes": [
+      "tuna",
+      "salmon",
+      "tai",
+      "avocado",
+      "tobiko"
+    ],
+    "price": 995
+  },
+  {
+    "name": "*R* Samurai",
+    "attributes": [
+      "shrimp-tempura",
+      "spicy-tuna",
+      "crab-meat",
+      "spicy scallop"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "*R* Snow White",
+    "attributes": [
+      "tuna, salmon",
+      "crab-meat",
+      "albacore",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Dynamic",
+    "attributes": [
+      "shrimp-tempura",
+      "avocado",
+      "crab-meat",
+      "spicy scallop"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Black Tiger",
+    "attributes": [
+      "spicy-tuna",
+      "cucumber",
+      "crab-meat",
+      "crab"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "A's Roll",
+    "attributes": [
+      "spicy crab",
+      "cucumber",
+      "unagi",
+      "avocado"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Princess",
+    "attributes": [
+      "shrimp-tempura",
+      "cream-cheese",
+      "cucumber",
+      "salmon",
+      "shrimp",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Poki Deluxe",
+    "attributes": [
+      "spicy-tuna",
+      "cucumber",
+      "albacore",
+      "wakame-salad"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Raiders (5 pcs)",
+    "attributes": [
+      "deep-fried",
+      "spicy",
+      "salmon",
+      "cream-cheese",
+      "unagi",
+      "avocado"
+    ],
+    "price": 995
+  },
+  {
+    "name": "*R Hamachi Lover",
+    "attributes": [
+      "Hamachi",
+      "cucumber",
+      "avocado"
+    ],
+    "price": 1495
+  },
+  {
+    "name": "*R* White Dragon",
+    "attributes": [
+      "shrimp",
+      "cucumber",
+      "crab-meat",
+      "unagi",
+      "escolar"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Contra Costa",
+    "attributes": [
+      "tuna",
+      "cucumber",
+      "salmon",
+      "wakame-salad"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "*R* 49ers",
+    "attributes": [
+      "crab-meat",
+      "avocado",
+      "salmon",
+      "lemon-slice"
+    ],
+    "price": 1195
+  },
+  {
+    "name": "*R* Cherry Crunch",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "tuna",
+      "salmon",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Gyoza roll (6 pcs)",
+    "attributes": [
+      "gyoza",
+      "avocado"
+    ],
+    "price": 695
+  },
+  {
+    "name": "Krispy (5 pcs)",
+    "attributes": [
+      "tuna",
+      "salmon",
+      "tai",
+      "avocado",
+      "deep-fried"
+    ],
+    "price": 895
+  },
+  {
+    "name": "Energy (5 pcs)",
+    "attributes": [
+      "cream-cheese",
+      "spicy-tuna",
+      "unagi",
+      "deep-fried"
+    ],
+    "price": 895
+  },
+  {
+    "name": "Yellowstone",
+    "attributes": [
+      "cream-cheese",
+      "crab-meat",
+      "avocado",
+      "deep-fried"
+    ],
+    "price": 895
+  },
+  {
+    "name": "Una crunch",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "crab-meat",
+      "unagi",
+      "avocado"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "*R* Antioch",
+    "attributes": [
+      "spicy-tuna",
+      "crab-meat",
+      "cucumber",
+      "unagi",
+      "albacore",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Dancing",
+    "attributes": [
+      "fried-asparagus",
+      "cream-cheese",
+      "cucumber",
+      "crab-meat",
+      "avocado",
+      "ebi"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Bay Island",
+    "attributes": [
+      "crab-meat",
+      "avocado",
+      "spicy-scallop",
+      "baked"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Spider Roll (5 pcs)",
+    "attributes": [
+      "deep-fried soft-shell crab",
+      "cucumber",
+      "crab-meat"
+    ],
+    "price": 1095
+  },
+  {
+    "name": "*R* Loveridge",
+    "attributes": [
+      "cucumber",
+      "unagi",
+      "avocado",
+      "tai",
+      "albacore"
+    ],
+    "price": 1
+  },
+  {
+    "name": "Ebi Heaven",
+    "attributes": [
+      "shrimp-tempura",
+      "avocado",
+      "ebi"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* M16",
+    "attributes": [
+      "Soft shell crab",
+      "avocado",
+      "albacore"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Mt. Diablo",
+    "attributes": [
+      "spicy-tuna",
+      "avocado",
+      "deep-fried",
+      "spicy crab-meat topping"
+    ],
+    "price": 1195
+  },
+  {
+    "name": "*R* Golden Gate",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "spicy-tuna",
+      "crab-meat"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "*R* Mango Paradise",
+    "attributes": [
+      "shrimp-tempura",
+      "crab-meat",
+      "cucumber",
+      "tuna",
+      "mango"
+    ],
+    "price": 1495
+  },
+  {
+    "name": "*R* Venus",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "spicy salmon",
+      "avocado",
+      "tuna"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Unatem",
+    "attributes": [
+      "shrimp-tempura",
+      "avocado",
+      "unagi"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Cherry Blossom",
+    "attributes": [
+      "Salmon",
+      "avocado",
+      "tuna"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "*R* Blue Mountain",
+    "attributes": [
+      "shrimp-tempura",
+      "crab-meat",
+      "cucumber",
+      "salmon"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Sunset",
+    "attributes": [
+      "spicy-tuna",
+      "cucumber",
+      "salmon",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Chicken Roll",
+    "attributes": [
+      "Chicken",
+      "cucumber"
+    ],
+    "price": 795
+  },
+  {
+    "name": "*R* Pink Lady",
+    "attributes": [
+      "Tuna",
+      "cucumber",
+      "cream-cheese",
+      "salmon",
+      "lemon"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "*R* Triple Tuna",
+    "attributes": [
+      "spicy-tuna",
+      "cucumber",
+      "avocado",
+      "tuna",
+      "albacore"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Green Dragon",
+    "attributes": [
+      "Shrimp",
+      "avocado",
+      "crab-meat"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Caterpillar",
+    "attributes": [
+      "unagi",
+      "spicy-tuna",
+      "cucumber",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Lambada",
+    "attributes": [
+      "Tuna",
+      "salmon",
+      "cucumber",
+      "avocado"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Eagle Eyes (5pcs)",
+    "attributes": [
+      "Tuna",
+      "salmon",
+      "tai",
+      "deep-fried"
+    ],
+    "price": 895
+  },
+  {
+    "name": "*R* Sun Flower",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "crab-meat",
+      "tuna",
+      "salmon",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Rainbow",
+    "attributes": [
+      "crab-meat",
+      "avocado",
+      "fish"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Alcatraz",
+    "attributes": [
+      "shrimp-tempura",
+      "cucumber",
+      "spicy-tuna",
+      "spicy scallop"
+    ],
+    "price": 1
+  },
+  {
+    "name": "Amigo Roll",
+    "attributes": [
+      "Jalapeno",
+      "cream-cheese",
+      "spicy-tuna",
+      "avocado",
+      "crab-meat"
+    ]
+  },
+  {
+    "name": "Godzilla",
+    "attributes": [
+      "Assorted fish",
+      "deep-fried"
+    ],
+    "price": 895
+  },
+  {
+    "name": "*R* Lady's Sushi Roll",
+    "attributes": [
+      "Spicy crab",
+      "tuna",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Gentlemen's Sushi Roll",
+    "attributes": [
+      "Spicy crab",
+      "salmon",
+      "avocado"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Cruiser",
+    "attributes": [
+      "shrimp-tempura",
+      "avocado",
+      "unagi",
+      "cucumber",
+      "spicy crab"
+    ],
+    "price": 1995
+  },
+  {
+    "name": "*R* Candy Cane",
+    "attributes": [
+      "crab-meat",
+      "avocado",
+      "spicy-tuna"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "California deluxe",
+    "attributes": [
+      "crab-meat",
+      "avocado",
+      "unagi"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "*R* Angry bird",
+    "attributes": [
+      "Spicy crab",
+      "spicy-tuna"
+    ],
+    "price": 1195
+  },
+  {
+    "name": "*R* Red Dragon",
+    "attributes": [
+      "shrimp-tempura",
+      "unagi",
+      "tuna",
+      "avocado",
+      "unagi"
+    ],
+    "price": 1395
+  },
+  {
+    "name": "Karai Tuna",
+    "attributes": [
+      "deep-fried",
+      "spicy-tuna"
+    ],
+    "price": 995
+  },
+  {
+    "name": "Union Square",
+    "attributes": [
+      "Shrimp",
+      "asparagus",
+      "crab-meat"
+    ],
+    "price": 1195
+  },
+  {
+    "name": "Goldfish (4pcs)",
+    "attributes": [
+      "deep-fried Izumi Tai"
+    ],
+    "price": 695
+  },
+  {
+    "name": "O.M.G",
+    "attributes": [
+      "Shrimp",
+      "crabmeat",
+      "salmon",
+      "avocado",
+      "jalapeno",
+      "cucumber"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* New Bay Bridge",
+    "attributes": [
+      "shrimp-tempura",
+      "avocado",
+      "crab",
+      "cucumber",
+      "Hamachi"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Nala",
+    "attributes": [
+      "spicy-tuna",
+      "cheese",
+      "jalapeno",
+      "deep-fried"
+    ],
+    "price": 995
+  },
+  {
+    "name": "*R* Bay Point",
+    "attributes": [
+      "Spicy Hamachi",
+      "avocado",
+      "spicy crab-meat"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Tiger",
+    "attributes": [
+      "shrimp-tempura",
+      "crab-meat",
+      "spicy-tuna",
+      "avocado",
+      "crunch"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Las Vegas",
+    "attributes": [
+      "spicy-tuna",
+      "cucumber",
+      "avocado",
+      "jalapeno"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "Simba",
+    "attributes": [
+      "Salmon",
+      "avocado",
+      "cream-cheese",
+      "deep-fried"
+    ],
+    "price": 1095
+  },
+  {
+    "name": "*R* 5.0.5",
+    "attributes": [
+      "spicy-tuna",
+      "cucumber",
+      "avocado",
+      "tuna",
+      "tobiko"
+    ],
+    "price": 1295
+  },
+  {
+    "name": "*R* Atlantis",
+    "attributes": [
+      "crab-meat",
+      "avocado",
+      "salmon",
+      "tuna"
+    ],
+    "price": 1295
   }
 ]
