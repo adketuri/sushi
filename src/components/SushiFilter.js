@@ -5,6 +5,7 @@ import CartModal from "./CartModal";
 import SushiDrawer from "./SushiDrawer";
 import Content from "./Content";
 import MenuBar from "./MenuBar";
+import DataValidator from "./DataValidator";
 
 function SushiFilter() {
   const [filter, setFilter] = useState({});
@@ -19,6 +20,7 @@ function SushiFilter() {
           Cart ({cart.length})
         </Button>
       </MenuBar>
+      {/* <DataValidator /> */}
       <Content>
         <CartModal
           cartVisible={cartVisible}

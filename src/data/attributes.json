@@ -5,13 +5,63 @@
     "group": "Seafood"
   },
   {
+    "label": "Crab",
+    "value": "crab",
+    "group": "Seafood"
+  },
+  {
     "label": "Crab Meat",
     "value": "crab-meat",
     "group": "Seafood"
   },
   {
+    "label": "Deep Fried Crab Meat",
+    "value": "deep-fried-crab",
+    "group": "Seafood"
+  },
+  {
+    "label": "Deep Fried Tai",
+    "value": "deep-fried-tai",
+    "group": "Seafood"
+  },
+  {
+    "label": "Fish",
+    "value": "fish",
+    "group": "Seafood"
+  },
+  {
+    "label": "Escolar",
+    "value": "escolar",
+    "group": "Seafood"
+  },
+  {
+    "label": "Hamachi",
+    "value": "hamachi",
+    "group": "Seafood"
+  },
+  {
     "label": "Salmon",
     "value": "salmon",
+    "group": "Seafood"
+  },
+  {
+    "label": "Spicy Crab",
+    "value": "spicy-crab",
+    "group": "Seafood"
+  },
+  {
+    "label": "Spicy Hamachi",
+    "value": "spicy-hamachi",
+    "group": "Seafood"
+  },
+  {
+    "label": "Spicy Salmon",
+    "value": "spicy-salmon",
+    "group": "Seafood"
+  },
+  {
+    "label": "Spicy Scallop",
+    "value": "spicy-scallop",
     "group": "Seafood"
   },
   {
@@ -35,6 +85,16 @@
     "group": "Seafood"
   },
   {
+    "label": "Tai",
+    "value": "tai",
+    "group": "Seafood"
+  },
+  {
+    "label": "Tobiko",
+    "value": "tobiko",
+    "group": "Seafood"
+  },
+  {
     "label": "Unagi (Eel)",
     "value": "unagi",
     "group": "Seafood"
@@ -45,6 +105,16 @@
     "group": "Seafood"
   },
   {
+    "label": "Fried Asparagus",
+    "value": "fried-asparagus",
+    "group": "Vegetable"
+  },
+  {
+    "label": "Asparagus",
+    "value": "asparagus",
+    "group": "Vegetable"
+  },
+  {
     "label": "Avocado",
     "value": "avocado",
     "group": "Vegetable"
@@ -53,6 +123,21 @@
     "label": "Cucumber",
     "value": "cucumber",
     "group": "Vegetable"
+  },
+  {
+    "label": "Lemon Slice",
+    "value": "lemon",
+    "group": "Other"
+  },
+  {
+    "label": "Mango",
+    "value": "mango",
+    "group": "Other"
+  },
+  {
+    "label": "Chicken",
+    "value": "chicken",
+    "group": "Other"
   },
   {
     "label": "Green Onion",
@@ -85,6 +170,11 @@
     "group": "Other"
   },
   {
+    "label": "Gyoza",
+    "value": "gyoza",
+    "group": "Other"
+  },
+  {
     "label": "Crunch",
     "value": "crunch",
     "group": "Other"
@@ -113,5 +203,10 @@
     "label": "Smoked",
     "value": "smoked",
     "group": "Preparation"
+  },
+  {
+    "label": "Special",
+    "value": "special",
+    "group": "Type"
   }
 ]

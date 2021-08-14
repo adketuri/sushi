@@ -276,7 +276,6 @@
       "crab-meat",
       "avocado",
       "salmon",
-      "special-sauce",
       "special"
     ],
     "price": 1395
@@ -334,7 +333,7 @@
       "shrimp-tempura",
       "spicy-tuna",
       "crab-meat",
-      "spicy scallop"
+      "spicy-scallop"
     ],
     "price": 1495
   },
@@ -377,7 +376,7 @@
   {
     "name": "A's Roll",
     "attributes": [
-      "spicy crab",
+      "spicy-crab",
       "cucumber",
       "unagi",
       "avocado",
@@ -415,7 +414,6 @@
     "name": "Raiders (5 pcs)",
     "attributes": [
       "deep-fried",
-      "spicy",
       "salmon",
       "cream-cheese",
       "unagi",
@@ -428,7 +426,7 @@
     "name": "Hamachi Lover",
     "attributes": [
       "raw",
-      "Hamachi",
+      "hamachi",
       "cucumber",
       "avocado",
       "special"
@@ -466,7 +464,7 @@
       "crab-meat",
       "avocado",
       "salmon",
-      "lemon-slice",
+      "lemon",
       "special"
     ],
     "price": 1295
@@ -578,7 +576,7 @@
   {
     "name": "Spider Roll (5 pcs)",
     "attributes": [
-      "deep-fried-soft-shell crab",
+      "deep-fried-crab",
       "cucumber",
       "crab-meat",
       "special"
@@ -603,7 +601,7 @@
     "attributes": [
       "shrimp-tempura",
       "avocado",
-      "ebi",
+      "shrimp",
       "special"
     ],
     "price": 1295
@@ -612,7 +610,7 @@
     "name": "M16",
     "attributes": [
       "raw",
-      "soft-shell-crab",
+      "crab",
       "avocado",
       "albacore",
       "special"
@@ -625,7 +623,7 @@
       "spicy-tuna",
       "avocado",
       "deep-fried",
-      "spicy-crab-meat",
+      "spicy-crab",
       "special"
     ],
     "price": 1195
@@ -661,7 +659,7 @@
     "attributes": [
       "shrimp-tempura",
       "cucumber",
-      "spicy salmon",
+      "spicy-salmon",
       "avocado",
       "tuna",
       "special"
@@ -727,7 +725,7 @@
   {
     "name": "Chicken Roll",
     "attributes": [
-      "Chicken",
+      "chicken",
       "cucumber"
     ],
     "price": 795
@@ -735,7 +733,7 @@
   {
     "name": "*R* Pink Lady",
     "attributes": [
-      "Tuna",
+      "tuna",
       "cucumber",
       "cream-cheese",
       "salmon",
@@ -757,7 +755,7 @@
   {
     "name": "Green Dragon",
     "attributes": [
-      "Shrimp",
+      "shrimp",
       "avocado",
       "crab-meat"
     ],
@@ -776,7 +774,7 @@
   {
     "name": "*R* Lambada",
     "attributes": [
-      "Tuna",
+      "tuna",
       "salmon",
       "cucumber",
       "avocado"
@@ -786,7 +784,7 @@
   {
     "name": "Eagle Eyes (5pcs)",
     "attributes": [
-      "Tuna",
+      "tuna",
       "salmon",
       "tai",
       "deep-fried"
@@ -815,19 +813,21 @@
     "price": 1295
   },
   {
-    "name": "*R* Alcatraz",
+    "name": "Alcatraz",
     "attributes": [
+      "raw",
       "shrimp-tempura",
       "cucumber",
       "spicy-tuna",
-      "spicy scallop"
+      "spicy-scallop",
+      "special"
     ],
     "price": 1
   },
   {
     "name": "Amigo Roll",
     "attributes": [
-      "Jalapeno",
+      "jalapeno",
       "cream-cheese",
       "spicy-tuna",
       "avocado",
@@ -837,7 +837,7 @@
   {
     "name": "Godzilla",
     "attributes": [
-      "Assorted fish",
+      "fish",
       "deep-fried"
     ],
     "price": 895
@@ -845,7 +845,7 @@
   {
     "name": "*R* Lady's Sushi Roll",
     "attributes": [
-      "Spicy crab",
+      "spicy-crab",
       "tuna",
       "avocado"
     ],
@@ -854,7 +854,7 @@
   {
     "name": "*R* Gentlemen's Sushi Roll",
     "attributes": [
-      "Spicy crab",
+      "spicy-crab",
       "salmon",
       "avocado"
     ],
@@ -867,7 +867,7 @@
       "avocado",
       "unagi",
       "cucumber",
-      "spicy crab"
+      "spicy-crab"
     ],
     "price": 1995
   },
@@ -890,9 +890,10 @@
     "price": 1395
   },
   {
-    "name": "*R* Angry bird",
+    "name": "Angry Bird",
     "attributes": [
-      "Spicy crab",
+      "raw",
+      "spicy-crab",
       "spicy-tuna"
     ],
     "price": 1195
@@ -919,7 +920,7 @@
   {
     "name": "Union Square",
     "attributes": [
-      "Shrimp",
+      "shrimp",
       "asparagus",
       "crab-meat"
     ],
@@ -928,15 +929,15 @@
   {
     "name": "Goldfish (4pcs)",
     "attributes": [
-      "deep-fried Izumi Tai"
+      "deep-fried-tai"
     ],
     "price": 695
   },
   {
     "name": "O.M.G",
     "attributes": [
-      "Shrimp",
-      "crabmeat",
+      "shrimp",
+      "crab-meat",
       "salmon",
       "avocado",
       "jalapeno",
@@ -951,7 +952,7 @@
       "avocado",
       "crab",
       "cucumber",
-      "Hamachi"
+      "hamachi"
     ],
     "price": 1295
   },
@@ -959,18 +960,19 @@
     "name": "Nala",
     "attributes": [
       "spicy-tuna",
-      "cheese",
+      "cream-cheese",
       "jalapeno",
       "deep-fried"
     ],
     "price": 995
   },
   {
-    "name": "*R* Bay Point",
+    "name": "Bay Point",
     "attributes": [
-      "Spicy Hamachi",
+      "raw",
+      "spicy-hamachi",
       "avocado",
-      "spicy crab-meat"
+      "spicy-crab"
     ],
     "price": 1295
   },
@@ -998,7 +1000,7 @@
   {
     "name": "Simba",
     "attributes": [
-      "Salmon",
+      "salmon",
       "avocado",
       "cream-cheese",
       "deep-fried"
