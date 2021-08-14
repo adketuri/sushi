@@ -194,12 +194,11 @@
       "avocado",
       "special"
     ],
-    "price": 1295
+    "price": 1495
   },
   {
     "name": "Sycamore",
     "attributes": [
-      "raw",
       "shrimp",
       "spicy-tuna",
       "cucumber",
@@ -207,7 +206,7 @@
       "salmon",
       "special"
     ],
-    "price": 1295
+    "price": 1395
   },
   {
     "name": "Cherry Scallop",
@@ -245,7 +244,7 @@
       "spicy-scallop",
       "crunch"
     ],
-    "price": 1295
+    "price": 1495
   },
   {
     "name": "Giant Crunch",
@@ -256,7 +255,7 @@
       "crunch",
       "special"
     ],
-    "price": 1095
+    "price": 1295
   },
   {
     "name": "Pittsburg",
@@ -268,7 +267,7 @@
       "avocado",
       "special"
     ],
-    "price": 1295
+    "price": 1395
   },
   {
     "name": "Lion King",
@@ -280,7 +279,7 @@
       "special-sauce",
       "special"
     ],
-    "price": 1295
+    "price": 1395
   },
   {
     "name": "Titanic",
@@ -291,7 +290,7 @@
       "unagi",
       "special"
     ],
-    "price": 1395
+    "price": 1495
   },
   {
     "name": "Freeway",
@@ -302,7 +301,7 @@
       "spicy-scallop",
       "special"
     ],
-    "price": 1395
+    "price": 1595
   },
   {
     "name": "Bodega Bay",
@@ -314,7 +313,7 @@
       "crab",
       "special"
     ],
-    "price": 1295
+    "price": 1495
   },
   {
     "name": "Crazy Horse",
@@ -337,12 +336,14 @@
       "crab-meat",
       "spicy scallop"
     ],
-    "price": 1395
+    "price": 1495
   },
   {
-    "name": "*R* Snow White",
+    "name": "Snow White",
     "attributes": [
-      "tuna, salmon",
+      "raw",
+      "tuna",
+      "salmon",
       "crab-meat",
       "albacore",
       "avocado"
@@ -352,20 +353,24 @@
   {
     "name": "Dynamic",
     "attributes": [
+      "baked",
       "shrimp-tempura",
       "avocado",
       "crab-meat",
-      "spicy scallop"
+      "spicy-salmon"
     ],
     "price": 1295
   },
   {
-    "name": "*R* Black Tiger",
+    "name": "Black Tiger",
     "attributes": [
+      "raw",
       "spicy-tuna",
       "cucumber",
       "crab-meat",
-      "crab"
+      "crab",
+      "avocado",
+      "special"
     ],
     "price": 1295
   },
@@ -375,31 +380,36 @@
       "spicy crab",
       "cucumber",
       "unagi",
-      "avocado"
+      "avocado",
+      "special"
     ],
-    "price": 1395
+    "price": 1495
   },
   {
     "name": "Princess",
     "attributes": [
+      "raw",
       "shrimp-tempura",
       "cream-cheese",
       "cucumber",
       "salmon",
       "shrimp",
-      "avocado"
+      "avocado",
+      "special"
     ],
     "price": 1295
   },
   {
-    "name": "*R* Poki Deluxe",
+    "name": "Poki Deluxe",
     "attributes": [
+      "raw",
       "spicy-tuna",
       "cucumber",
       "albacore",
-      "wakame-salad"
+      "wakame-salad",
+      "special"
     ],
-    "price": 1395
+    "price": 1495
   },
   {
     "name": "Raiders (5 pcs)",
@@ -409,58 +419,68 @@
       "salmon",
       "cream-cheese",
       "unagi",
-      "avocado"
+      "avocado",
+      "special"
     ],
-    "price": 995
+    "price": 1095
   },
   {
-    "name": "*R Hamachi Lover",
+    "name": "Hamachi Lover",
     "attributes": [
+      "raw",
       "Hamachi",
       "cucumber",
-      "avocado"
+      "avocado",
+      "special"
     ],
     "price": 1495
   },
   {
-    "name": "*R* White Dragon",
+    "name": "White Dragon",
     "attributes": [
+      "raw",
       "shrimp",
       "cucumber",
-      "crab-meat",
       "unagi",
-      "escolar"
+      "escolar",
+      "special"
     ],
     "price": 1295
   },
   {
     "name": "Contra Costa",
     "attributes": [
+      "raw",
       "tuna",
       "cucumber",
       "salmon",
-      "wakame-salad"
+      "wakame-salad",
+      "special"
     ],
     "price": 1395
   },
   {
-    "name": "*R* 49ers",
+    "name": "49ers",
     "attributes": [
+      "raw",
       "crab-meat",
       "avocado",
       "salmon",
-      "lemon-slice"
+      "lemon-slice",
+      "special"
     ],
-    "price": 1195
+    "price": 1295
   },
   {
-    "name": "*R* Cherry Crunch",
+    "name": "Cherry Crunch",
     "attributes": [
+      "raw",
       "shrimp-tempura",
       "cucumber",
       "tuna",
       "salmon",
-      "avocado"
+      "avocado",
+      "special"
     ],
     "price": 1295
   },
@@ -468,9 +488,10 @@
     "name": "Gyoza roll (6 pcs)",
     "attributes": [
       "gyoza",
-      "avocado"
+      "avocado",
+      "special"
     ],
-    "price": 695
+    "price": 795
   },
   {
     "name": "Krispy (5 pcs)",
@@ -479,9 +500,10 @@
       "salmon",
       "tai",
       "avocado",
-      "deep-fried"
+      "deep-fried",
+      "special"
     ],
-    "price": 895
+    "price": 1095
   },
   {
     "name": "Energy (5 pcs)",
@@ -489,54 +511,59 @@
       "cream-cheese",
       "spicy-tuna",
       "unagi",
-      "deep-fried"
+      "deep-fried",
+      "special"
     ],
-    "price": 895
+    "price": 1095
   },
   {
     "name": "Yellowstone",
     "attributes": [
       "cream-cheese",
       "crab-meat",
-      "avocado",
-      "deep-fried"
+      "deep-fried",
+      "special"
     ],
-    "price": 895
+    "price": 1095
   },
   {
-    "name": "Una crunch",
+    "name": "Una Crunch",
     "attributes": [
       "shrimp-tempura",
       "cucumber",
       "crab-meat",
       "unagi",
-      "avocado"
+      "avocado",
+      "special"
     ],
-    "price": 1395
+    "price": 1495
   },
   {
-    "name": "*R* Antioch",
+    "name": "Antioch",
     "attributes": [
+      "raw",
       "spicy-tuna",
       "crab-meat",
       "cucumber",
       "unagi",
       "albacore",
-      "avocado"
+      "avocado",
+      "special"
     ],
     "price": 1295
   },
   {
-    "name": "*R* Dancing",
+    "name": "Dancing",
     "attributes": [
       "fried-asparagus",
       "cream-cheese",
       "cucumber",
       "crab-meat",
       "avocado",
-      "ebi"
+      "shrimp-tempura",
+      "special"
     ],
-    "price": 1395
+    "price": 1495
   },
   {
     "name": "Bay Island",
@@ -546,43 +573,49 @@
       "spicy-scallop",
       "baked"
     ],
-    "price": 1295
+    "price": 1495
   },
   {
     "name": "Spider Roll (5 pcs)",
     "attributes": [
-      "deep-fried soft-shell crab",
+      "deep-fried-soft-shell crab",
       "cucumber",
-      "crab-meat"
+      "crab-meat",
+      "special"
     ],
-    "price": 1095
+    "price": 1195
   },
   {
-    "name": "*R* Loveridge",
+    "name": "Loveridge",
     "attributes": [
+      "raw",
       "cucumber",
       "unagi",
       "avocado",
       "tai",
-      "albacore"
+      "albacore",
+      "special"
     ],
-    "price": 1
+    "price": 1495
   },
   {
     "name": "Ebi Heaven",
     "attributes": [
       "shrimp-tempura",
       "avocado",
-      "ebi"
+      "ebi",
+      "special"
     ],
     "price": 1295
   },
   {
-    "name": "*R* M16",
+    "name": "M16",
     "attributes": [
-      "Soft shell crab",
+      "raw",
+      "soft-shell-crab",
       "avocado",
-      "albacore"
+      "albacore",
+      "special"
     ],
     "price": 1295
   },
@@ -592,69 +625,94 @@
       "spicy-tuna",
       "avocado",
       "deep-fried",
-      "spicy crab-meat topping"
+      "spicy-crab-meat",
+      "special"
     ],
     "price": 1195
   },
   {
-    "name": "*R* Golden Gate",
+    "name": "Golden Gate",
     "attributes": [
       "shrimp-tempura",
       "cucumber",
       "spicy-tuna",
-      "crab-meat"
-    ],
-    "price": 1395
-  },
-  {
-    "name": "*R* Mango Paradise",
-    "attributes": [
-      "shrimp-tempura",
       "crab-meat",
-      "cucumber",
-      "tuna",
-      "mango"
+      "avocado",
+      "albacore",
+      "special"
     ],
     "price": 1495
   },
   {
-    "name": "*R* Venus",
+    "name": "Mango Paradise",
+    "attributes": [
+      "raw",
+      "shrimp-tempura",
+      "crab-meat",
+      "cucumber",
+      "tuna",
+      "mango",
+      "special"
+    ],
+    "price": 1595
+  },
+  {
+    "name": "Venus",
     "attributes": [
       "shrimp-tempura",
       "cucumber",
       "spicy salmon",
       "avocado",
-      "tuna"
+      "tuna",
+      "special"
     ],
-    "price": 1395
+    "price": 1495
   },
   {
     "name": "Unatem",
     "attributes": [
       "shrimp-tempura",
       "avocado",
-      "unagi"
-    ],
-    "price": 1295
-  },
-  {
-    "name": "*R* Cherry Blossom",
-    "attributes": [
-      "Salmon",
-      "avocado",
-      "tuna"
+      "unagi",
+      "special"
     ],
     "price": 1395
   },
   {
-    "name": "*R* Blue Mountain",
+    "name": "Cherry Blossom",
+    "attributes": [
+      "raw",
+      "salmon",
+      "avocado",
+      "tuna",
+      "special"
+    ],
+    "price": 1495
+  },
+  {
+    "name": "Blue Mountain",
     "attributes": [
       "shrimp-tempura",
       "crab-meat",
       "cucumber",
-      "salmon"
+      "salmon",
+      "special"
     ],
-    "price": 1295
+    "price": 1395
+  },
+  {
+    "name": "Scorpion Roll",
+    "attributes": [
+      "raw",
+      "avocado",
+      "cucumber",
+      "cream-cheese",
+      "spicy-tuna",
+      "albacore",
+      "salmon",
+      "special"
+    ],
+    "price": 1395
   },
   {
     "name": "*R* Sunset",

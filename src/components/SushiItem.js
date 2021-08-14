@@ -5,7 +5,7 @@ function handleClick(remove, sushi, setCart) {
   if (remove) {
     setCart((cart) => {
       const idx = cart.indexOf(sushi);
-      if (idx !== -1) return cart.filter((_, iidx) => iidx != idx);
+      if (idx !== -1) return cart.filter((_, iidx) => iidx !== idx);
       return cart;
     });
   } else {
