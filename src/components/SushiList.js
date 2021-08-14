@@ -5,12 +5,12 @@ import SushiItem from './SushiItem'
 function SushiList(props) {
   const { filter } = props
   
-  const sushiList = new Array();
+  const sushiList = [];
   sushi.forEach(s => {
     const attributeSet = new Set(s.attributes)
     let valid = true;
     if (filter){
-      filter.forEach(a => {
+      Object.keys(filter).forEach(a => {
         if (!attributeSet.has(a)) valid = false;
       })
     }

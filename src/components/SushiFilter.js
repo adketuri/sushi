@@ -1,22 +1,43 @@
 import React, { useState } from 'react'
-import attributes from '../data/attributes.json'
-import { TagPicker } from 'rsuite';
-import { compare } from "../util/compare"
+import { Button, Drawer } from 'rsuite';
 import SushiList from "./SushiList"
-
+import AttributeSelector from "./AttributeSelector"
+// import CartModal from "./CartModal"
 
 function SushiFilter() {
-  const [filter, setFilter] = useState([]);
+  const [filter, setFilter] = useState({});
+  const [open, setOpen] = useState(false);
+  const [cartVisible, setCartVisible] = useState(false);
   return (
     <>
-      <TagPicker data={attributes} 
-        groupBy="group"
-        sort={isGroup => {
-          if (isGroup) return (a, b) => compare(a.groupTitle, b.groupTitle)
-          return (a, b) => compare(a.value, b.value)}}
-          onChange={(value) => setFilter(value)}
-          style={{ width: 300 }}  
-      />
+        <Button onClick={()=> setOpen(true)}>Open</Button>
+        <Button onClick={()=> setCartVisible(true)}>Cart</Button>
+
+        {/* <CartModal cartVisible setCartVisible={setCartVisible}/> */}
+
+        <Drawer
+          size="xs"
+          show={open}
+          onHide={()=> setOpen(false)}
+          style={{width: 250}}
+        >
+          <Drawer.Header>
+            <Drawer.Title>Options</Drawer.Title>
+          </Drawer.Header>
+          <Drawer.Body>
+            <AttributeSelector onChange={(v, checked)=> {
+              if (checked){
+                setFilter({...filter, [v]: true})
+              } else {
+                const { [v]: value, ...rest } = filter
+                setFilter(rest)
+              }
+            }} initialFilter={filter}/>
+          </Drawer.Body>
+          <Drawer.Footer/>
+        </Drawer>
+
+
       <SushiList filter={filter}/>
     </>
   )

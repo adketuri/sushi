@@ -85,6 +85,11 @@
     "group": "Other"
   },
   {
+    "label": "Crunch",
+    "value": "crunch",
+    "group": "Other"
+  },
+  {
     "label": "Tamago (Egg)",
     "value": "tamago",
     "group": "Other"

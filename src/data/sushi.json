@@ -157,18 +157,21 @@
     "attributes": [
       "crab-meat",
       "cucumber",
-      "avocado"
+      "avocado",
+      "special"
     ],
     "price": 1195
   },
   {
-    "name": "*R* Half Moon Bay",
+    "name": "Half Moon Bay",
     "attributes": [
+      "raw",
       "shrimp",
       "cucumber",
       "avocado",
       "crab-meat",
-      "spicy-tuna"
+      "spicy-tuna",
+      "special"
     ],
     "price": 1295
   },
@@ -177,7 +180,8 @@
     "attributes": [
       "spicy-tuna",
       "jalapeno",
-      "cream-cheese"
+      "cream-cheese",
+      "special"
     ],
     "price": 995
   },
@@ -187,47 +191,55 @@
       "shrimp-tempura",
       "cucumber",
       "unagi",
-      "avocado"
+      "avocado",
+      "special"
     ],
     "price": 1295
   },
   {
-    "name": "*R* Sycamore",
+    "name": "Sycamore",
     "attributes": [
+      "raw",
       "shrimp",
       "spicy-tuna",
       "cucumber",
       "albacore",
-      "salmon"
+      "salmon",
+      "special"
     ],
     "price": 1295
   },
   {
-    "name": "*R* Cherry Scallop",
+    "name": "Cherry Scallop",
     "attributes": [
+      "raw",
       "shrimp-tempura",
       "crab-meat",
       "cucumber",
       "tuna",
       "salmon",
-      "spicy-scallop"
+      "spicy-scallop",
+      "special"
     ],
-    "price": 149
+    "price": 1495
   },
   {
-    "name": "*R* Volcano",
+    "name": "Volcano",
     "attributes": [
+      "raw",
       "shrimp-tempura",
       "crab-meat",
       "cucumber",
       "spicy-tuna",
-      "crunch"
+      "crunch",
+      "special"
     ],
     "price": 1295
   },
   {
-    "name": "*R* Fire Cracker",
+    "name": "Fire Cracker",
     "attributes": [
+      "raw",
       "spicy-tuna",
       "cucumber",
       "spicy-scallop",
@@ -241,9 +253,10 @@
       "shrimp-tempura",
       "cucumber",
       "crab-meat",
-      "crunch"
+      "crunch",
+      "special"
     ],
-    "price": 1995
+    "price": 1095
   },
   {
     "name": "Pittsburg",
@@ -252,7 +265,8 @@
       "spicy-tuna",
       "cream-cheese",
       "crab-meat",
-      "avocado"
+      "avocado",
+      "special"
     ],
     "price": 1295
   },
@@ -263,7 +277,8 @@
       "crab-meat",
       "avocado",
       "salmon",
-      "sauce"
+      "special-sauce",
+      "special"
     ],
     "price": 1295
   },
@@ -273,7 +288,8 @@
       "deep-fried",
       "crab-meat",
       "avocado",
-      "unagi"
+      "unagi",
+      "special"
     ],
     "price": 1395
   },
@@ -283,7 +299,8 @@
       "deep-fried",
       "spicy-tuna",
       "baked",
-      "spicy-scallop"
+      "spicy-scallop",
+      "special"
     ],
     "price": 1395
   },
@@ -294,23 +311,26 @@
       "cucumber",
       "crab-meat",
       "avocado",
-      "crab"
+      "crab",
+      "special"
     ],
     "price": 1295
   },
   {
-    "name": "R Crazy Horse (5 pcs)",
+    "name": "Crazy Horse",
     "attributes": [
+      "raw",
       "tuna",
       "salmon",
       "tai",
       "avocado",
-      "tobiko"
+      "tobiko",
+      "special"
     ],
     "price": 995
   },
   {
-    "name": "*R* Samurai",
+    "name": "Samurai",
     "attributes": [
       "shrimp-tempura",
       "spicy-tuna",
