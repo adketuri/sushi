@@ -1,17 +1,32 @@
-import React from 'react'
+import React from "react";
+import { Button } from "rsuite";
 
-function SushiItem(props) {
-  const {sushi} = props
+function SushiItem({ sushi, setCart }) {
   return (
-    <div>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "row",
+        marginTop: 5,
+      }}
+    >
       <div>
         <strong>{sushi.name}</strong> {sushi.price}
-        <br/>
-        {sushi.attributes.map(a => a + ", ")}
-        <br/><br/>
+        <br />
+        {sushi.attributes.map((a) => a + ", ")}
+        <br />
+        <br />
+      </div>
+      <div style={{ marginLeft: "auto" }}>
+        <Button
+          color="blue"
+          onClick={() => setCart((cart) => [...cart, sushi])}
+        >
+          +
+        </Button>
       </div>
     </div>
-  )
+  );
 }
 
-export default SushiItem
+export default SushiItem;
