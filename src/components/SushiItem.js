@@ -25,7 +25,9 @@ function SushiItem({ sushi, setCart, remove }) {
       <div>
         <strong>{sushi.name}</strong> {sushi.price}
         <br />
-        {sushi.attributes.map((a) => a + ", ")}
+        <small style={{ color: "gray" }}>
+          {sushi.attributes.map((a, i) => (i !== 0 ? ", " + a : a))}
+        </small>
         <br />
       </div>
       <div style={{ marginLeft: "auto" }}>

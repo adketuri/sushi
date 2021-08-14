@@ -3,6 +3,8 @@ import { Button } from "rsuite";
 import SushiList from "./SushiList";
 import CartModal from "./CartModal";
 import SushiDrawer from "./SushiDrawer";
+import Content from "./Content";
+import MenuBar from "./MenuBar";
 
 function SushiFilter() {
   const [filter, setFilter] = useState({});
@@ -10,20 +12,14 @@ function SushiFilter() {
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [cartVisible, setCartVisible] = useState(false);
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "row",
-        justifyContent: "center",
-        marginLeft: 10,
-        marginRight: 10,
-      }}
-    >
-      <div style={{ maxWidth: 400 }}>
+    <>
+      <MenuBar>
         <Button onClick={() => setDrawerOpen(true)}>Drawer</Button>
         <Button onClick={() => setCartVisible(true)}>
           Cart ({cart.length})
         </Button>
+      </MenuBar>
+      <Content>
         <CartModal
           cartVisible={cartVisible}
           setCartVisible={setCartVisible}
@@ -37,8 +33,8 @@ function SushiFilter() {
           setDrawerOpen={setDrawerOpen}
         />
         <SushiList filter={filter} setCart={setCart} />
-      </div>
-    </div>
+      </Content>
+    </>
   );
 }
 
